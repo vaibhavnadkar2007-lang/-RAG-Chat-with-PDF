@@ -18,6 +18,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## Live Demo
-Coming soon on Streamlit Cloud!
+https://vaibhavnadkar2007-lang-repo-xxxxx.streamlit.app
+
 
 Made by Vaibhav Nadkar
